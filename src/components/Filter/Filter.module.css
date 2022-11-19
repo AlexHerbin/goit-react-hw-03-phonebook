@@ -1,0 +1,10 @@
+.nameLabel {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.text {
+  margin-bottom: 10px;
+}
